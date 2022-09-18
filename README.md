@@ -1,2 +1,3 @@
 # Predicting_Habitable_Exoplanets
 Predicting habitable exoplanets in different star systems using machine learning models.
+In 2009, NASA launched Kepler Space Telescope which studied a small patch of area which consists of about half-million stars. Our proposed way to detect habitability comprised of statistical approach by using Machine-learning algorithms on Kepler dataset.  Our prime centre is to build the increased set of parameters over which habitability of an exoplanet depends and furthermore utilizing a dataset with an increased set of the star systems which will additionally bring about expanded precision and accuracy of the prediction.
